@@ -128,3 +128,16 @@ Azure Storage Explorer allows to you browse containers, upload files, download f
 ---
 **AzCopy**
 
+AzCopy is a specialized command-line utility used for high-performance data transfer into, out of, and between Azure Storage accounts. 
+
+---
+**Outcome**
+
+Built an enterprise-grade storage architecture demonstrating high availability, durability, and secure data management practices.
+
+Configure storage accounts
+Configure redundancy
+Configure object replication
+Manage encryption
+Use Storage Explorer
+Use AzCopy
